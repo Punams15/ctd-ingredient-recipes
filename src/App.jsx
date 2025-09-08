@@ -129,3 +129,12 @@ function App() {
 }
 
 export default App;
+
+
+//https://github.com/Code-the-Dream-School/ctd-ingredient-recipes
+
+//https://spoonacular.com/food-api
+
+//https://spoonacular.com/food-api/pricing
+
+
